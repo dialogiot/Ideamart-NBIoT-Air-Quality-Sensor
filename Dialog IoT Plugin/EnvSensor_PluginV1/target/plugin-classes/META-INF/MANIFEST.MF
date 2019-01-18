@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Plugin-Dependencies: 
+Plugin-Id: envsensor_v1
+Archiver-Version: Plexus Archiver
+Built-By: Ideamart
+Plugin-Provider: Ideamart
+Plugin-Version: 0.0.1
+Plugin-Class: lk.dialog.iot.das.operation.process.plugin.ideamart.envs
+ ensor.v1.IdeamartEnvsensorV1Plugin
+Created-By: Ideamart
+Build-Jdk: 1.8.0_141
+

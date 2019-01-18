@@ -1,0 +1,13 @@
+<assembly>
+    <id> S20SocketV2Plugin </id>
+    <formats>
+    <format> zip </format>
+        </formats>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <fileSets>
+            <fileSet>
+                <directory>target/plugin-classes</directory>
+                <outputDirectory> classes </outputDirectory>
+            </fileSet>
+    </fileSets>
+    </assembly>
